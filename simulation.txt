@@ -1,0 +1,22 @@
+Simple case without PPO
+=========================
+
+A.
+have 1 publisher with 1000 subscribers
+publish one message from the subscriber using a HUb.
+Measure the average time it takes for each / all subscribers to get the message.
+
+B.
+1 person that follows 1000 people
+and each of these 1000 people sending a message at the same time
+
+This is the case where maybe we could use apache benchmark, simulating
+that a person receives 1000 HTTP POST at the same time, without
+considering where the POSTs comes from.
+
+
+
+Notes
+======
+
+1. Clients are not wroten in PHP
