@@ -1,7 +1,7 @@
 <http://dbpedia.org/resource/Semantic_Web>
 <http://dbpedia.org/resource/Linked_Data>
-<http://dbpedia.org/resource/Semantic_Web>
-<http://dbpedia.org/resource/Semantic_Web>
+<http://dbpedia.org/resource/Microblogging> 
+<http://dbpedia.org/resource/World_Wide_Web>
 <http://dbpedia.org/resource/Semantic_Web>
 <http://dbpedia.org/resource/Semantic_Web>
 <http://dbpedia.org/resource/Semantic_Web>
